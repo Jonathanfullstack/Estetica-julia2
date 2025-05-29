@@ -56,10 +56,10 @@ export function Servicos() {
           <GoCheck />
           <h1>Brow Lamination</h1>
           <p>
-            Realce seu visual com o Brown Lamination, a escolha ideal para quem busca sobrancelhas 
-            alinhadas, definidas e com aspecto natural. A técnica proporciona fios disciplinados e com brilho,
-             valorizando o formato do seu rosto. 
-            Combine com cílios marcantes e conquiste um olhar poderoso e expressivo todos os dias!
+            O Brow Lamination é um tratamento estético para as sobrancelhas que realinha e
+            modela os fios, deixando-os mais definidos, uniformes e com aspecto de “penteados para cima”
+            Esse procedimento valoriza o desenho natural das sobrancelhas, preenche falhas aparentes, dá mais volume
+            e cria o efeito de sobrancelhas mais cheias, levantando o olhar de forma sutil e sofisticada.
           </p>
         </div>
         <div data-aos="fade-up">
