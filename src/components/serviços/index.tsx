@@ -43,7 +43,7 @@ export function Servicos() {
 
         <div data-aos="fade-up">
           <GoCheck />
-          <h1>Brasileiro Brow</h1>
+          <h1>Brasileiro Brown</h1>
           <p>
             Complete o seu visual com o Brasileiro Brow, a técnica perfeita para
             quem deseja sobrancelhas definidas e volumosas. Além de realçar o
@@ -54,7 +54,7 @@ export function Servicos() {
         </div>
         <div data-aos="fade-up">
           <GoCheck />
-          <h1>Brown Lamination</h1>
+          <h1>Brow Lamination</h1>
           <p>
             Realce seu visual com o Brown Lamination, a escolha ideal para quem busca sobrancelhas 
             alinhadas, definidas e com aspecto natural. A técnica proporciona fios disciplinados e com brilho,
@@ -73,7 +73,7 @@ export function Servicos() {
         </div>
         <div data-aos="fade-up">
           <GoCheck />
-          <h1>Natural Shape</h1>
+          <h1>Designer personalizado</h1>
           <p>
             Realce sua beleza com o Natural Shape, o design de sobrancelhas perfeito para quem busca um 
             visual alinhado, leve e sem coloração. A técnica respeita o formato natural do seu rosto,
