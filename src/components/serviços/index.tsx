@@ -35,8 +35,7 @@ export function Servicos() {
             Se você ama um visual marcante e cheio de personalidade, o volume
             brasileiro é a escolha ideal! Essa técnica utiliza leques de cílios
             ultrafinos para garantir um efeito super volumoso e dramático,
-            destacando ainda mais o seu olhar. Para aquelas que não abrem mão de
-            cílios impactantes, o volume brasileiro é o segredo para um olhar
+            destacando ainda mais o seu olhar. O volume brasileiro é o segredo para um olhar
             irresistível e cheio de poder!
           </p>
         </div>
