@@ -75,7 +75,7 @@ export function Servicos() {
           <GoCheck />
           <h1>Designer personalizado</h1>
           <p>
-            Realce sua beleza com o Natural Shape, o design de sobrancelhas perfeito para quem busca um 
+            Realce sua beleza com o Designer Personalizado, o design de sobrancelhas perfeito para quem busca um 
             visual alinhado, leve e sem coloração. A técnica respeita o formato natural do seu rosto,
              garantindo sobrancelhas bem definidas e elegantes, com acabamento limpo e sofisticado.
           </p>
