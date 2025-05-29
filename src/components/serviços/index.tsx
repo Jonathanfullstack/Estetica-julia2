@@ -43,7 +43,7 @@ export function Servicos() {
 
         <div data-aos="fade-up">
           <GoCheck />
-          <h1>Brasileiro Brown</h1>
+          <h1>Volume Brown</h1>
           <p>
             Complete o seu visual com o Brasileiro Brow, a técnica perfeita para
             quem deseja sobrancelhas definidas e volumosas. Além de realçar o
