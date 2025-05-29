@@ -8,12 +8,12 @@ export function Sombrancelha() {
   const items = [
     { title: "Brown Lamination", price: "R$ 100,00", image: Lamination },
     { title: "Henna Design", price: "R$ 35,00", image: henna },
-    { title: "Natural Shape", price: "R$ 25,00", image: normal },
+    { title: "Designer personalizado", price: "R$ 25,00", image: normal },
   ];
 
   return (
     <>
-      <h1 style={{ textAlign: "center", marginBottom: "2rem" }}>Sombrancelha</h1>
+      <h1 style={{ textAlign: "center", marginBottom: "2rem" }}>Sombrancelhas</h1>
       <CatalogContainer>
         {items.map((item, index) => (
           <Card key={index}>
