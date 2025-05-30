@@ -7,7 +7,7 @@ import { CatalogContainer, Card, WhatsAppButton } from "./styles";
 export function Catalog() {
   const items = [
     { title: "Volume Flower", price: "R$ 130,00", image: flower },
-    { title: "Brasileiro Brown", price: "R$ 100,00", image: brown },
+    { title: "Volume Brown", price: "R$ 100,00", image: brown },
     { title: "Volume Brasileiro", price: "R$ 90,00", image: Brasileiro },
     { title: "Volume Hibrido", price: "R$ 100,00", image: hibrido },
   ];
