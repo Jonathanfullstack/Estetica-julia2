@@ -41,7 +41,7 @@ export function Header({ setMenuIsVisible }: any) {
             );
           })}
         </ul>
-        <button onClick={contact}>AGENDAR CONSULTA</button>
+        <button onClick={contact}>AGENDE SEU HORARIO</button>
         <RxHamburgerMenu
           onClick={() => setMenuIsVisible(true)}
         ></RxHamburgerMenu>
