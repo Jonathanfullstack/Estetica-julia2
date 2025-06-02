@@ -13,7 +13,7 @@ export function Sombrancelha() {
 
   return (
     <>
-      <h1 style={{ textAlign: "center", marginBottom: "2rem" }}>Sombrancelhas</h1>
+      <h1 style={{ textAlign: "center", marginBottom: "2rem" }}>Sobrancelhas</h1>
       <CatalogContainer>
         {items.map((item, index) => (
           <Card key={index}>
@@ -21,7 +21,7 @@ export function Sombrancelha() {
             <h2>{item.title}</h2>
             <span>{item.price}</span>
             <WhatsAppButton
-              href={`https://wa.me/5519994045641?text=Oi! 👋 Eu vi sobre os serviços de Sombrancelha no seu site e estou interessada em agendar um horário. Quais são as opções disponíveis? 😍 "${item.title}"`}
+              href={`https://wa.me/5519994045641?text=Oi! 👋 Eu vi sobre os serviços de Sobrancelha no seu site e estou interessada em agendar um horário. Quais são as opções disponíveis? 😍 "${item.title}"`}
               target="_blank"
               rel="noopener noreferrer"
             >
