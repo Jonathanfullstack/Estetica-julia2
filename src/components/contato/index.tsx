@@ -36,7 +36,7 @@ export function Contato() {
           <MdOutlineMail size={20} />
           <span>juliarcaroline@gmail.com</span>
         </div>
-        <button onClick={contact}>AGENDE SUA CONSULTA</button>
+        <button onClick={contact}>AGENDE SEU HORARIO</button>
       </ContentContact>
       <Image data-aos="fade-up" src={Modelo} alt="modelo" width={300} />
     </ContainerContato>
